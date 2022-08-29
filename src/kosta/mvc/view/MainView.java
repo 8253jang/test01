@@ -1,9 +1,10 @@
 package kosta.mvc.view;
 
-public class MainView {
+import kosta.mvc.controller.BoardController;
 
+public class MainView {
 	public static void main(String[] args) {
-		
+		BoardController controller = new BoardController();
 
 	}
 
