@@ -12,4 +12,8 @@ public class BoardService {
     	System.out.println("충돌예상...");
 
     }
+    
+    public void remote() {
+    	System.out.println(11);
+    }
 }
