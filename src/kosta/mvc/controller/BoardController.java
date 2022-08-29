@@ -4,4 +4,8 @@ public class BoardController {
   public void insert() {
 	  
   }
+  
+  public void select() {
+	  
+  }
 } 
